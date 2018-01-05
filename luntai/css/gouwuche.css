@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box; }
+
+header {
+  width: 100%;
+  background: #1c1c1e;
+  height: 0.65rem;
+  line-height: 0.65rem;
+  margin: 0 auto; }
+  header ul {
+    width: 100%;
+    height: 100%; }
+    header ul li {
+      height: 100%;
+      float: left;
+      font-size: 0.1rem;
+      color: #cba303; }
+      header ul li a {
+        color: #727271; }
+      header ul li p:hover {
+        color: #CBA303; }
+    header ul li:nth-of-type(1) {
+      margin-left: 4.36rem;
+      margin-right: 1.08rem; }
+    header ul li:nth-of-type(2) {
+      margin-right: 0.65rem;
+      color: #727271; }
+    header ul li:nth-of-type(3) {
+      margin-right: 0.65rem;
+      color: #727271; }
+    header ul li:nth-of-type(4) {
+      margin-right: 0.65rem;
+      color: #727271; }
+    header ul li:nth-of-type(5) {
+      margin-right: 0.98rem;
+      color: #cba303; }
+    header ul li:nth-of-type(6) {
+      margin-right: 0.98rem;
+      color: #727271; }
+
+.bj {
+  width: 100%;
+  height: 284px; }
+  .bj img {
+    width: 100%;
+    height: 284px; }
+
+.your {
+  width: 100%;
+  height: 48px;
+  background: #3C3A3B;
+  line-height: 48px; }
+  .your p {
+    font-size: 12px;
+    margin-right: 424px;
+    color: #000;
+    float: right; }
+    .your p span {
+      color: #F1C40F; }
+
+.wp {
+  width: 1000px;
+  margin: auto; }
+  .wp .sea {
+    height: 28px;
+    margin: 26px 0px; }
+    .wp .sea select {
+      width: 226px;
+      height: 28px; }
+    .wp .sea input {
+      width: 150px;
+      height: 32px;
+      margin-left: 10px;
+      border: none;
+      border: 1px solid #999;
+      border-radius: 20px; }
+  .wp h3 {
+    font-size: 14px;
+    width: 100%;
+    text-align: left;
+    margin: 20px 0px; }
+  .wp table {
+    width: 100%; }
+    .wp table tr:nth-of-type(1) {
+      background: #F1C40F; }
+    .wp table th {
+      height: 40px;
+      font-size: 16px;
+      color: #5E5E5E;
+      text-align: center; }
+    .wp table td {
+      height: 40px;
+      font-size: 12px;
+      color: #A4A9AE;
+      text-align: center; }
+    .wp table .inp {
+      width: 98px;
+      height: 30px; }
+    .wp table button {
+      background: linear-gradient(#Fed94b, #e89916);
+      border: 1px solid #CECECE;
+      color: white;
+      width: 100px;
+      border-radius: 2px; }
+    .wp table td:nth-of-type(7) img {
+      float: right; }
+
+/*# sourceMappingURL=gouwuche.css.map */
